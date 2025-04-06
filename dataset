@@ -1,1 +1,2 @@
-For the required dataset of the IoT-Security-Threat-Detection download 5% of the dataset as everything is not needed and in 5% use the UNSW_2018_IoT_Botnet_Final_10_Best.csv for the IoT-Security-Threat-Detection download from the official website https://research.unsw.edu.au/projects/bot-iot-dataset. 
+For the required dataset of the IoT-Security-Threat-Detection download it from the official website https://research.unsw.edu.au/projects/bot-iot-dataset. 
+As all the data is not needed, download a csv which is UNSW_2018_IoT_Botnet_Final_10_Best.csv for the IoT-Security-Threat-Detection 
